@@ -37,11 +37,4 @@ Análise exploratória de dados (EDA) sobre materiais de agricultura, desenvolvi
 1. Abrir o arquivo `.ipynb` no Google Colab
 2. Executar as células em sequência
 
----
-
-## 👩‍💻 Sobre Mim
-
-Estudante de Análise e Desenvolvimento de Sistemas, focada em análise de dados.
-
----
 
